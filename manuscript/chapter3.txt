@@ -1,0 +1,28 @@
+# Hardware
+
+In this part we'll take what we've learned about the fundamentals of how computers work and apply that to the actual hardware design.
+In these chapters we'll cover what you need to know to design your own boards, get them produced, and assemble them once you have them.
+
+Also in this part of the book, I’ll introduce our companion along the way, our project, Orientation-sensitive Task Timer (TODO: name this thing!).
+From here on out talking about hardware or software in the abstract is out and concrete is in.
+It'll be ``in order to hook up I2C to the orientation sensor, we'll...'' and not ``here's how the SDA and SCL lines work.''
+I can motivate everything by referring to the project that's gradually taking shape!
+Don't worry though, the background details that you've learned in [[Essentials of Computation]] will still be relevant in fact they'll form the bedrock to build more understanding upon.
+I find that it's so helpful to learn something about /why/ I'm learning a thing /while/ I’m learning it.
+## KiCAD
+Getting up and running with electronics EDA.
+### Installation
+### Capturing a Schematic
+### Board Layout
+### Rules Checking
+### Generating Gerbers
+## Production
+Getting your board from screen to your hot little hands.
+### Creating a Bill of Materials
+### Finding Parts
+### Board Manufacturing
+### Assembly
+## All about Wireless
+### Bluetooth
+#### nRF Beacons App
+## JTAG

@@ -1,25 +1,46 @@
-# Chapter One
+# About this Book
 
-This is an example of how to write a book chapter in plain text, formatted with Markdown formatting. This is a paragraph. You just write.
+I've worked professionally as a web application developer, mostly in Rails since at least 2011.
+But even before that, I'd been messing around with computer programs for a long time.
+Really dating myself here, but I had one of those heavy green "Learn JavaScript in 21 Days" books that my dad got me back in the 90s.
+My web browser came on diskettes in a box.
+But I digress.
+Suffice it to say that I've been hitting /view source/ since it was an option.
 
-Blank lines separate paragraphs. This is the second paragraph.
+The web is great.
+It is a mostly-open platform moored to robust backwards compatibility by the massive chain of user adoption.
+There's great support because we all agree that web pages should continue to work even long after they're written.
+Making custom web applications, brochure sites, customized templates, etc. etc. are all viable job activities.
+And it is reasonably accessible to the newcomer.
+After all, most everyone knows what a webapp is and how they interact with them.
 
-This is the third paragraph. To make *italic text* you surround it with single asterisks. To make **bold text** you surround it with double asterisks.
+But as great as the web is, it's not the whole story.
+The farther along in my career I got, the more that I started to think about what's /underneath/.
+I have a good grounding in UNIX and so I knew about things like sockets and HTTP.
+But I never felt like I had a good grasp on what happens between data being a packet and it being electrical signals in a wire.
+The physics part of my brain couldn't see how everything fit together.
 
-You can start new chapters by starting a line with a # sign and a space, and then typing your chapter title.
+## TODO: more stuff & rationale
 
-"This is in quotes."
+This book is a start-to-finish project that I really did.
+Throughout the step-by-step process of building this device, we'll learn all about what embedded entails.
+But I also love the physical design of things.
+In addition to writing the firmware for the device, we'll also:
 
-You make a thematic break with three asterisks, like this:
+- create a custom PCB
+- source parts and assemble them
+- program the board
+- design & 3d print a case
 
-* * *
+I want to go through each step of what you'd do if you wanted to start making electronics projects.
 
-By the way, the above formatting is actually *all* you need to know to write a novel using Markdown formatting. To write a technical book, however, you'll need to know a bit more Markdown.
-
-We have a handy manual at https://leanpub.com/markua/read and we have a Markdown quick-start guide in Chapter 2.
-
-Or, if you're ready to start writing your book, simply select all the text in this file, delete it, and then start writing! (Start with # Your Chapter Name and then a blank line, and then write your first paragraph.)
-
-* * *
-
-On behalf of everyone at Leanpub, we really hope that you enjoy the experience of writing and publishing in-progress on Leanpub. We are a bootstrapped startup which is entirely supported by our authors, and we're really grateful that you have chosen to write your book using Leanpub...
+- Why C?
+  - A "Lingua Franca" for Embedded
+  - Libraries, Tooling, IDEs
+- Why Rust?
+  - Modernity comes to Embedded
+  - ...Not Equally Distributed
+  - Achieveable
+- Project-Based
+  - No "Solutions in Search of a Problem"
+  - I'm Learning, Too!
