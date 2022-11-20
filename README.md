@@ -1,19 +1,21 @@
-# This is the default new book content for writing a Leanpub book in plain text!
 
-This repository contains some default content that can be added to a new Leanpub book so you can make your first book preview.
+# Embedded for Webdevs
 
-Just click "Use this template" on GitHub to create a new repo of your own, with everything set up just like it is here.
+## An Investigation of Hardware for the Curious
 
-At the top level of the repo will be a "manuscript" folder.
+KEYWORDS: Hardware, Embedded Development, Cortex-M, Rust
 
-In the "manuscript" folder, you will see a file called "Book.txt". The files listed in the "Book.txt" file are the ones that will be used to generate your book.
+This is a book about embedded software for web developers.
+It's a project-based approach where we'll together, and step-by-step, create a desktop task timer.
+We go through each and every phase that you'd do for a polished hobby-level project:
 
-In this default content repo, the two files listed in "Book.txt" are the "chapter1.txt" and "chapter2.txt" files currently in the "manuscript" folder.
+- Draw architecture diagrams, plans, state machines
+- Choose a chip with peripherals and external sensors
+- Create schematics and board layouts in KiCAD
+- Write firmware (currently planning Rust and/or C++)
+- Create 3D cad models for a case
 
-Also in the "manuscript" folder, you will see a "resources" folder. Images and other resources are to be placed in this folder.
+This is a big project, but I think it's accessible to the newcomer.
+The book's style is that of an extended pair-programming session where we go through not just what we did but _how_ and _why_ we did it.
 
-If you're looking for a tutorial, please select the Getting Started walkthrough for your chosen book writing mode [here](http://help.leanpub.com/en/articles/3088382-quick-walkthroughs-for-getting-started-on-a-leanpub-book) in our [Help Center](http://help.leanpub.com/en), which has hundreds of useful articles for Leanpub authors.
-
-Finally, [here is a link to the Markua manual,](https://leanpub.com/markua/read) which shows you everything you can do when you write a book in plain text on Leanpub.
-
-Good luck!
+I hope you'll join me.
