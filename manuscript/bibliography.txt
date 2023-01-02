@@ -1,0 +1,9 @@
+# Bibliography
+
+1. BÖVING, Henrik, EGGER, Daniel, GREIG, Adam, MUNNS, James, RICHTER, Andre y ROMERO, Diego Barrios. _Discovery: Discover the world of microcontrollers through Rust!_. The embedded Rust resources team, 2022, https://docs.rust-embedded.org/discovery/index.html. 
+1. EMBEDDED RUST COMMUNITY, The. _The Embedded Rust Book_. The embedded Rust resources team, 2022, https://docs.rust-embedded.org/book/index.html. 
+1. GJENGSET, Jon. _Rust for Rustceans_. Liz Chadwick. No Starch Press, 2022. 
+1. HYMEL, Shawn. _An Intro to KiCad_. 2018, Video one in a series. https://www.youtube.com/watch?v=vaCVh2SAZY4. 
+1. VALVANO, Jonathan y RAMESH YERRABALLI, . _Embedded Systems - Shape The World_. 2015, Online course. 
+1. VAN OOSTEN, Jeremiah. _Understanding Quaternions_. 2012, https://www.3dgep.com/understanding-quaternions/. 
+1. WHITE, Elecia. _Making Embedded Systems_. O'Reilly Media, Inc., 2011. 
