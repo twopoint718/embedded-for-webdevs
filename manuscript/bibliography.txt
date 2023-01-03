@@ -6,6 +6,7 @@
 1. GJENGSET, Jon. _Rust for Rustceans_. Liz Chadwick. No Starch Press, 2022. 
 1. HYMEL, Shawn. _An Intro to KiCad_. 2018, Video one in a series. https://www.youtube.com/watch?v=vaCVh2SAZY4. 
 1. MAZIDI, Muhammad Ali, CHEN, Shujen, GHAEMI, Eshragh. _STM32 Arm Programming for Embedded Systems_. MicroDigitalEd, 2018.
+1. McNAMARA, Tim. _Rust in Action_. Manning Publications Co., 2021.
 1. VALVANO, Jonathan y RAMESH YERRABALLI, . _Embedded Systems - Shape The World_. 2015, Online course. 
 1. VAN OOSTEN, Jeremiah. _Understanding Quaternions_. 2012, https://www.3dgep.com/understanding-quaternions/. 
 1. WHITE, Elecia. _Making Embedded Systems_. O'Reilly Media, Inc., 2011. 
